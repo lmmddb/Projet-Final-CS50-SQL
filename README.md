@@ -97,5 +97,3 @@ Les relations entre ces entités sont définies à l'aide de clés étrangères 
 Pour une description détaillée du modèle de données, des contraintes d'intégrité et des choix de conception, veuillez consulter le document [Projet SQL\_DJAU\_Mamadou.pdf](./Projet%20SQL_DJAU_Mamadou.pdf).
 
 ---
-
-N'hésitez pas à adapter ce fichier `README.md` en fonction de vos besoins spécifiques ou des évolutions futures du projet.
