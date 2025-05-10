@@ -2,7 +2,7 @@
 
 ## 📘 Présentation
 
-Ce projet constitue le travail final du cours **CS50’s Introduction to Databases with SQL**. Il s'agit d'une base de données relationnelle simulant le système d'information d'une banque. Le projet permet de gérer les clients, les comptes, les employés, les agences et les transactions, tout en offrant des scripts pour la création, l'alimentation et l'interrogation de la base de données.
+Ce projet constitue le travail final du cours SQL. Il s'agit d'une base de données relationnelle simulant le système d'information d'une banque. Le projet permet de gérer les clients, les comptes, les employés, les agences et les transactions, tout en offrant des scripts pour la création, l'alimentation et l'interrogation de la base de données.
 
 ## 🗂️ Structure du dépôt
 
