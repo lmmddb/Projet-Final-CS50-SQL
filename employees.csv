@@ -1,0 +1,51 @@
+employee_id,branch_id,name,position
+1,1,Guy Collin,Directeur
+2,1,Laure Klein-Gomes,Caissier
+3,1,Anaïs du Gomez,Conseiller
+4,1,Noël Georges,Caissier
+5,1,Audrey Petitjean,Conseiller
+6,1,Renée-Émilie Meyer,Conseiller
+7,2,Susan Delattre,Directeur
+8,2,Antoine Lelièvre,Conseiller
+9,2,Olivie Vallet,Caissier
+10,2,Juliette Fontaine-Imbert,Caissier
+11,2,Frédéric Benard de Bouchet,Caissier
+12,3,Augustin Maurice de Laroche,Directeur
+13,3,Célina Blondel,Conseiller
+14,3,Alex Leclercq,Caissier
+15,3,Thibaut Renault,Caissier
+16,3,Timothée Le Lacombe,Conseiller
+17,4,Zacharie Pineau,Directeur
+18,4,Guillaume du Delaunay,Conseiller
+19,4,Isabelle Martineau de Meunier,Conseiller
+20,4,Manon Vallée du Petitjean,Conseiller
+21,4,Isaac-Arthur Navarro,Caissier
+22,5,Gabriel Roy,Directeur
+23,5,Benjamin Boutin,Caissier
+24,5,Henri Nguyen,Conseiller
+25,5,Édith du Cohen,Caissier
+26,5,Victor Girard,Conseiller
+27,5,Alix Valette,Conseiller
+28,6,Jules Gosselin,Directeur
+29,6,Roger Petitjean-Chartier,Caissier
+30,6,François Allard,Caissier
+31,6,Christophe-Guy Leleu,Caissier
+32,6,Brigitte de Raynaud,Conseiller
+33,6,Lucas-Alfred Perret,Conseiller
+34,7,Audrey Guérin,Directeur
+35,7,Frédéric Didier,Conseiller
+36,7,Laure Le Mendès,Conseiller
+37,7,Pierre-Guillaume Pineau,Conseiller
+38,8,Andrée Fontaine,Directeur
+39,8,Pierre Gérard,Conseiller
+40,8,Laurent Roger,Conseiller
+41,8,Astrid Bruneau,Conseiller
+42,8,Alice Léger-Gilles,Caissier
+43,8,Joseph Vallet,Caissier
+44,9,Charlotte Fernandes-Pineau,Directeur
+45,9,Danielle-Colette Auger,Conseiller
+46,9,Sabine Clément du Marchal,Caissier
+47,9,Nath Klein,Conseiller
+48,9,Pierre Guilbert,Conseiller
+49,10,Jérôme Morel de Morel,Directeur
+50,10,Sébastien Michaud de Mendès,Conseiller
