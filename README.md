@@ -14,7 +14,7 @@ Ce projet constitue le travail final du cours **CS50’s Introduction to Databas
 * `Projet SQL_DJAU_Mamadou.pdf` : Document de conception détaillant le modèle relationnel et les choix techniques.
 * `README.md` : Ce fichier.
 
-## 🧱 Modèle relationnel
+## Modèle relationnel
 
 La base de données est composée des entités suivantes :
 
